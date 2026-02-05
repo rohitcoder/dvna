@@ -5,7 +5,7 @@ services:
   app:
     build:
       context: ./
-      dockerfile: Dockerfile-dev
+      dockerfile: Dockerfile-devnkkkj
     ports:
       - 9090:9090
     volumes:
